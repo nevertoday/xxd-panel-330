@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 330"
+  short_description: "私人珍藏：上半保留原照，下半把主体收成手帐角落里的私人珍藏小印"
+  default_prompt: "Use $xxd-panel-330 to transform my photograph following the complete canonical source brief."
