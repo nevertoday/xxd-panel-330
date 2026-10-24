@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 330｜Private Keepsake: keeps the photo and leaves one small, soft personal mark of its subject, like something drawn by hand to keep a memory — very few soft primitive shapes, a key feature such as an outline, pose or object that may be partly missing, drawn with hesitant, slightly wobbly, not fully closed hand lines. Never centred like a logo: it sits off-centre, against an edge, cropped or slightly tilted in large empty space, like a corner of a journal. A few soft, time-worn colours such as mist blue, grey green and warm off-white in watercolour wash, gouache, coloured pencil and paper grain; tiny handwritten notes, initials or date fragments, wording and language not fixed in advance. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-330 or asks for a private keepsake mark, journal-corner doodle or soft personal emblem from a photo.",
+  "short_description": "私人珍藏：把照片收成手帐角落里一枚偏心、可裁切、手绘迟疑线条的柔软私人小印记",
+  "zh-CN": {
+    "name": "私人珍藏",
+    "tagline": "保留原照片，在手帐角落留下一枚只属于某个人的私人小印记。",
+    "look": "照片保持原样，设计部分像某个人为了记住一段关系、一种喜爱或一个瞬间而亲手留下的小符号：形体很少、很柔软，只保留一个最认得出的小特征，比如轮廓、姿态、动作或一件物件，可以被概括、夸张或缺掉一块。线条略带迟疑和轻微抖动，不完全闭合，看得出是一个人反复画过的。它不居中摆成标志，而是偏心、贴边、被裁切或稍稍倾斜，像手帐角落里的小图。颜色少、柔、有时间感，如雾蓝、灰绿、暖米白、柔棕、浅黄、低饱和粉，像水彩、水粉和彩铅被纸轻轻吸进去。文字只是极少的手写备注、缩写或日期片段，像旧照片背面的留言，内容和语种不预设。",
+    "traits": [
+      "私人印记",
+      "手帐角落",
+      "非居中",
+      "柔软图腾",
+      "减法留白"
+    ],
+    "good": [
+      "和某个人或某段关系有关的照片：牵着的手、两只靠在一起的杯子、陪伴多年的狗",
+      "日常里被珍惜的小东西：一张车票、一只发夹、窗台上的多肉",
+      "想做成纪念日卡片、相册角标、私人手帐贴纸的照片"
+    ],
+    "poor": [
+      "想要居中、对称、稳定的品牌 Logo 或企业标识的需求",
+      "需要完整人物、完整场景或清楚信息的照片：合影、活动海报、商品图",
+      "想要精修吉祥物、标准 emoji、3D 或金属质感的效果"
+    ]
+  },
+  "en": {
+    "name": "Private Keepsake",
+    "tagline": "Keeps your photo and leaves one private little mark in the corner of a journal, as if it belonged to one person.",
+    "look": "The photo stays as it is. The design looks like a small symbol someone drew by hand to remember a relationship, a fondness or a moment: very few, soft shapes keeping just one recognisable feature, such as an outline, pose, gesture or object, which may be simplified, exaggerated or partly missing. Lines are a little hesitant and shaky, not fully closed, clearly drawn many times by one hand. It is never centred like a logo; it sits off-centre, against an edge, cropped or slightly tilted, like a doodle in the corner of a journal. Colours are few, soft and time-worn, such as mist blue, grey green, warm off-white, soft brown, pale yellow and dusty pink, as if watercolour, gouache and coloured pencil had soaked gently into the paper. Text is only a few handwritten notes, initials or date fragments, like writing on the back of an old photo, with wording and language not fixed in advance.",
+    "traits": [
+      "Private mark",
+      "Journal corner",
+      "Off-centre",
+      "Soft totem",
+      "Subtractive whitespace"
+    ],
+    "good": [
+      "Photos tied to a person or a relationship: holding hands, two mugs side by side, a dog that has been around for years",
+      "Small cherished things from daily life: a train ticket, a hair clip, a succulent on the windowsill",
+      "Photos you want as an anniversary card, a corner mark in an album or a private journal sticker"
+    ],
+    "poor": [
+      "Requests for a centred, symmetric, stable brand logo or corporate mark",
+      "Photos that need the whole figure, the whole scene or clear information: group photos, event posters, product shots",
+      "Wanting a polished mascot, a standard emoji, 3D or a metallic finish"
+    ]
+  },
+  "ja": {
+    "name": "私だけの宝物",
+    "tagline": "写真はそのままに、手帳の隅に、誰かひとりのものだったような私的な小さな印を残します。",
+    "look": "写真はそのまま残し、デザイン側は、ある関係や好きなもの、ひとときを覚えておくために誰かが手で描いた小さな記号のようになります。形はごく少なく柔らかく、輪郭、姿勢、しぐさ、持ち物など、いちばん見分けやすい特徴をひとつだけ残し、簡略にしても、誇張しても、一部が欠けていてもかまいません。線は少しためらいがちに揺れ、閉じきらず、同じ人が何度も描いたことがわかります。ロゴのように中央には置かず、中心から外したり、端に寄せたり、切れていたり、少し傾いたりして、手帳の隅の落書きのようです。色は少なく柔らかく時間を感じさせ、霧のような青、灰緑、温かな生成り、柔らかな茶、淡い黄、くすんだピンクなどで、水彩、ガッシュ、色鉛筆が紙にそっと染み込んだようです。文字は手書きのメモ、イニシャル、日付の断片がわずかにあるだけで、古い写真の裏の書き込みのよう。内容と言語はあらかじめ決めません。",
+    "traits": [
+      "私的な印",
+      "手帳の隅",
+      "中心を外す",
+      "柔らかなトーテム",
+      "引き算の余白"
+    ],
+    "good": [
+      "ある人や関係にまつわる写真：つないだ手、並んだ二つのマグカップ、何年も一緒の犬",
+      "日々の中で大切にしている小物：切符、ヘアピン、窓辺の多肉植物",
+      "記念日のカード、アルバムの隅の印、私的な手帳のシールにしたい写真"
+    ],
+    "poor": [
+      "中央に置いた、左右対称で安定したブランドロゴや企業のマークを求める場合",
+      "人物全体、場面全体、はっきりした情報が必要な写真：集合写真、イベントポスター、商品写真",
+      "作り込んだマスコット、定番の絵文字、3D、金属の質感を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "나만의 소장품",
+    "tagline": "원래 사진은 그대로 두고, 다이어리 귀퉁이에 누군가 한 사람만의 것이었을 듯한 작은 개인 표식을 남깁니다.",
+    "look": "사진은 그대로 두고, 디자인 쪽은 어떤 관계나 좋아하는 것, 한순간을 기억하려고 누군가 손으로 그려 남긴 작은 기호처럼 보입니다. 형태는 아주 적고 부드러우며, 윤곽, 자세, 동작, 소지품처럼 가장 알아보기 쉬운 특징 하나만 남기고, 단순하게 하거나 과장하거나 일부가 빠져도 됩니다. 선은 조금 망설이며 흔들리고 다 닫히지 않아, 한 사람이 여러 번 그린 것이 드러납니다. 로고처럼 가운데에 두지 않고, 한쪽으로 비키거나 가장자리에 붙거나 잘리거나 살짝 기울어 다이어리 귀퉁이의 낙서 같습니다. 색은 적고 부드럽고 시간이 느껴지게 안개 낀 파랑, 회녹색, 따뜻한 미색, 부드러운 갈색, 연노랑, 탁한 분홍 등을 쓰며, 수채, 과슈, 색연필이 종이에 살며시 스며든 듯합니다. 글자는 손글씨 메모, 이니셜, 날짜 조각이 아주 조금 있을 뿐이며 옛 사진 뒷면의 글씨 같고, 내용과 언어는 미리 정하지 않습니다.",
+    "traits": [
+      "개인 표식",
+      "다이어리 귀퉁이",
+      "가운데를 벗어남",
+      "부드러운 토템",
+      "덜어 낸 여백"
+    ],
+    "good": [
+      "어떤 사람이나 관계와 연결된 사진: 맞잡은 손, 나란히 놓인 머그컵 두 개, 오래 함께한 강아지",
+      "일상에서 아끼는 작은 물건: 기차표, 머리핀, 창가의 다육식물",
+      "기념일 카드, 앨범 귀퉁이 표식, 개인 다이어리 스티커로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "가운데에 대칭으로 안정되게 놓인 브랜드 로고나 기업 마크를 원하는 경우",
+      "인물 전체, 장면 전체, 분명한 정보가 필요한 사진: 단체 사진, 행사 포스터, 제품 사진",
+      "공들인 마스코트, 표준 이모지, 3D, 금속 질감을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "تذكار خاص",
+    "tagline": "يحتفظ بصورتك ويترك في زاوية دفتر يوميات علامة صغيرة خاصة كأنها تخص شخصاً واحداً.",
+    "look": "تبقى الصورة كما هي، ويبدو التصميم كرمز صغير رسمه أحدهم بيده ليتذكر علاقة أو شيئاً يحبه أو لحظة: أشكال قليلة جداً ناعمة لا تحتفظ إلا بسمة واحدة تُعرف بها، كخط خارجي أو وضعية أو حركة أو غرض، ويجوز أن تُبسَّط أو يُبالغ فيها أو ينقص منها جزء. الخطوط مترددة قليلاً ومرتعشة، غير منغلقة تماماً، يظهر أن يداً واحدة رسمتها مرات كثيرة. لا يوضع في المنتصف كالشعارات، بل يبتعد عن المركز أو يلاصق الحافة أو يُقطع أو يميل قليلاً، كرسم صغير في زاوية دفتر. الألوان قليلة ناعمة توحي بمرور الزمن، مثل الأزرق الضبابي والأخضر الرمادي والأبيض الدافئ والبني الناعم والأصفر الفاتح والوردي الخافت، كأن الألوان المائية والغواش والأقلام الملوّنة تشرّبها الورق برفق. النص بضع ملاحظات بخط اليد أو أحرف أولى أو شذرات تواريخ، كالكتابة على ظهر صورة قديمة، ومضمونه ولغته لا يُحدَّدان مسبقاً.",
+    "traits": [
+      "علامة خاصة",
+      "زاوية الدفتر",
+      "بعيد عن المركز",
+      "طوطم ناعم",
+      "فراغ بالحذف"
+    ],
+    "good": [
+      "صور مرتبطة بشخص أو علاقة: يدان متشابكتان، كوبان متجاوران، كلب رافقك سنوات",
+      "أشياء صغيرة عزيزة من الحياة اليومية: تذكرة قطار، مشبك شعر، نبتة عصارية على حافة النافذة",
+      "صور تريدها بطاقة ذكرى سنوية أو علامة في زاوية ألبوم أو ملصقاً لدفتر يوميات خاص"
+    ],
+    "poor": [
+      "طلب شعار تجاري أو مؤسسي في المنتصف متناظر مستقر",
+      "صور تحتاج إلى الشخص كاملاً أو المشهد كاملاً أو معلومات واضحة: الصور الجماعية، ملصقات الفعاليات، صور المنتجات",
+      "الرغبة في تميمة مصقولة أو رمز تعبيري نمطي أو مجسّم أو ملمس معدني"
+    ]
+  }
+}

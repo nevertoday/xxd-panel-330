@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-330
-description: "Create XXD Panel 330 raster artwork: a faithful photograph paired with one off-center private keepsake, a soft memory totem in the corner of a journal. Accepts one image or a directory batch and supports top-bottom, left-right, design-only and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact or text-free typography. Use whenever the user invokes xxd-panel-330 or asks for this 私人珍藏 style."
+description: "XXD Panel 330｜Private Keepsake: keeps the photo and leaves one small, soft personal mark of its subject, like something drawn by hand to keep a memory — very few soft primitive shapes, a key feature such as an outline, pose or object that may be partly missing, drawn with hesitant, slightly wobbly, not fully closed hand lines. Never centred like a logo: it sits off-centre, against an edge, cropped or slightly tilted in large empty space, like a corner of a journal. A few soft, time-worn colours such as mist blue, grey green and warm off-white in watercolour wash, gouache, coloured pencil and paper grain; tiny handwritten notes, initials or date fragments, wording and language not fixed in advance. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-330 or asks for a private keepsake mark, journal-corner doodle or soft personal emblem from a photo."
 ---
 
 # XXD Panel 330
